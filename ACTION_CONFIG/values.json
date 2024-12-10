@@ -1,0 +1,6 @@
+{
+  "name": "name-of-application",
+  "version": "name-of-tag",
+  "java": 11,
+  "dockerhub-username": "your-username-dockerhub"
+}
